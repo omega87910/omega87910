@@ -9,9 +9,10 @@
 - ⚡ Fun fact: ...
 -->
 ### Hi there , I'm Mickey👋
+- 🏫 I’m studying in Asia university
 - 🔭 I’m currently working on Hwakang Security Guard Company
 - 🌱 I’m currently learning Swift、Kotlin、Laravel
-- 👯 I’m looking to collaborate on "Log Intelligence detect Platform" and "Vtuber Fans Project"
+- 👯 I’m looking to collaborate on "Log intelligence detection" and some "Vtuber Fans Project"
 <a href="https://github.com/omega87910">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omega87910&show_icons=true&hide_border=true&icon_color=586069&include_all_commits=true&count_private=true" />
 </a>
