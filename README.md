@@ -10,7 +10,7 @@
 -->
 ### Hi there , I'm Mickey👋
 - 🏫 I’m studying in Asia university
-- 🔭 I’m currently working on Hwakang Security Guard Company
+- 🏢 I’m currently working on Hwakang Security Guard Company
 - 🌱 I’m currently learning Swift、Kotlin、Laravel
 - 👯 I’m looking to collaborate on "Log intelligence detection" and some "Vtuber Fans Project"
 <a href="https://github.com/omega87910">
