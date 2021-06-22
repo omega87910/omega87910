@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 ### Hi there , I'm Mickey👋
-- 🏫 I’m studying in Asia university
+- 🏫 I’m studying in National Taiwan Ocean University
 - 🏢 I’m currently working on Hwakang Security Guard Company
 - 🌱 I’m currently learning Objectiv-C, Swift, Kotlin, JAVA
 <a href="https://github.com/omega87910">
