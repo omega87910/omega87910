@@ -11,7 +11,7 @@
 -->
 ### Hi there , I'm Mickey👋
 - 🏫 I’m studying in National Taiwan Ocean University
-- 🌱 I’m currently learning Objectiv-C, Swift, Kotlin, JAVA
+- 🌱 I’m currently learning Java, MicroPython, ReactJS
 <a href="https://github.com/omega87910">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omega87910&show_icons=true&hide_border=true&icon_color=586069&include_all_commits=true&count_private=true" />
 </a>
